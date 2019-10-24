@@ -1,0 +1,13 @@
+{
+    "name": "com.madstrawberry.dotween",
+    "displayName": "Do Tween",
+    "description": "A Unity C# animation engine. HOTween v2 http://dotween.demigiant.com",
+    "version": "1.2.283",
+    "unity": "2018.4",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/FrankPIE/DoTween-UPM"
+    },
+    "src": "Packages/DoTween-UPM",
+    "author": "https://github.com/Demigiant & https://github.com/FrankPIE"
+}
